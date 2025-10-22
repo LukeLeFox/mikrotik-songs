@@ -1,4 +1,5 @@
-# mikrotik-songs SECURITY COPY FROM ALEXANDERFEFELOV
+# mikrotik-songs 
+SECURITY COPY FROM ALEXANDERFEFELOV
 
 # Installation
 Add content of .rsc files as scripts under /system script.
